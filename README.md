@@ -8,8 +8,8 @@ Je cherche une **alternance de 2 ans** à partir de septembre / octobre 2026, au
 
 - **Automatisation Python / API** — conception d’un système reliant Telegram à MetaTrader 5, avec validation des signaux, API Flask et dashboard Node.js de supervision.
 - **Backend TypeScript / Node.js** — développement en binôme d’une plateforme de gestion de CV avec authentification JWT, rôles utilisateurs et génération PDF.
-- **Backend Java / REST** — réalisation d’une API Javalin connectée à SQLite pour une borne de commande, documentée avec Swagger / OpenAPI.
-- **Réseau en C** — développement d’un Puissance 4 client-serveur sur sockets TCP avec protocole dédié et gestion des déconnexions.
+- **Backend Java / REST** — chef de projet sur une borne de commande : supervision globale, codage, liaison front↔back et mise en place de Swagger / OpenAPI.
+- **Réseau en C** — développement complet de la partie serveur d’un Puissance 4 sur sockets TCP : connexions, logique de partie, erreurs, déconnexions et replay.
 
 ## Stack principale
 
@@ -40,12 +40,12 @@ Co-développé une plateforme de gestion de CV avec authentification, rôles can
 ### [DevP_Java](https://github.com/Davinoildevert/DevP_Java)
 **Java • Javalin • SQLite • REST • Swagger/OpenAPI**
 
-Développé le backend d’une borne de commande restaurant : gestion du menu, création de commandes, simulation de paiement et persistance SQLite avec documentation API.
+Chef de projet : supervision de l’ensemble, contribution au code, réalisation de la liaison front↔back et mise en place de Swagger/OpenAPI pour documenter et tester l’API.
 
 ### [Puissance_4](https://github.com/Davinoildevert/Puissance_4)
-**C • TCP sockets • client/serveur**
+**C • TCP sockets • serveur • protocole réseau**
 
-Implémenté un jeu Puissance 4 en réseau avec serveur centralisé, deux clients TCP, protocole d’échange documenté, replay et gestion des erreurs de connexion.
+Développé toute la partie serveur du Puissance 4 réseau : connexions TCP, gestion des joueurs et des tours, validation des coups, erreurs, déconnexions et replay.
 
 ## Formation
 
