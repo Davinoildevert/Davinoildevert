@@ -7,7 +7,7 @@ Je cherche une **alternance de 2 ans** à partir de septembre / octobre 2026, au
 ## Ce que je construis
 
 - **Automatisation Python / API** — conception d’un système reliant Telegram à MetaTrader 5, avec validation des signaux, API Flask et dashboard Node.js de supervision.
-- **Backend TypeScript / Node.js** — développement en binôme d’une plateforme de gestion de CV avec authentification JWT, rôles utilisateurs et génération PDF.
+- **Backend TypeScript / Node.js** — réalisation complète du backend d’une plateforme de gestion de CV : API Express, authentification JWT, rôles, contrôle d’accès et génération PDF.
 - **Backend Java / REST** — chef de projet sur une borne de commande : supervision globale, codage, liaison front↔back et mise en place de Swagger / OpenAPI.
 - **Réseau en C** — développement complet de la partie serveur d’un Puissance 4 sur sockets TCP : connexions, logique de partie, erreurs, déconnexions et replay.
 
@@ -35,7 +35,7 @@ Conçu une architecture multi-service capable de recevoir des signaux Telegram, 
 ### [CVconnectV2](https://github.com/Davinoildevert/CVconnectV2)
 **TypeScript • Node.js • Express • JWT • Puppeteer**
 
-Co-développé une plateforme de gestion de CV avec authentification, rôles candidat/recruteur, contrôle d’accès et génération PDF, en structurant le backend autour de routes, contrôleurs, modèles et middlewares.
+Réalisé l’intégralité du backend de la plateforme : architecture TypeScript / Node.js / Express, authentification JWT, gestion des rôles, contrôle d’accès, CRUD des CV, génération PDF, notifications, favoris et messagerie.
 
 ### [DevP_Java](https://github.com/Davinoildevert/DevP_Java)
 **Java • Javalin • SQLite • REST • Swagger/OpenAPI**
